@@ -28,7 +28,7 @@ A modern system management tool for Linux systems with both GUI and TUI interfac
 
 1. **Clone or download the project:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Florex0Real/linux-system-manager.git
    cd linux-system-manager
    ```
 
